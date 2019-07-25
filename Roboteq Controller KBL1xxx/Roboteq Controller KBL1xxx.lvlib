@@ -40,13 +40,13 @@ Roboteq’s KBL1xxx is a rugged, feature-packed, high-current single channel con
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/Data/Data.mnu"/>
-			<Item Name="Read.vi" Type="VI" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/Data/Read.vi"/>
+			<Item Name="Max RPM Value.vi" Type="VI" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/Data/Max RPM Value.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/Utility/Utility.mnu"/>
 		</Item>
 		<Item Name="Controls" Type="Folder">
-			<Item Name="Controller Parameters.ctl" Type="VI" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/Controls/Controller Parameters.ctl"/>
+			<Item Name="Controller.ctl" Type="VI" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/Controls/Controller.ctl"/>
 		</Item>
 		<Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/dir.mnu"/>
 		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/Close.vi"/>
