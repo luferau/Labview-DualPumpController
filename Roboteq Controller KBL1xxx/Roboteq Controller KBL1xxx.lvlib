@@ -53,5 +53,4 @@ Roboteq’s KBL1xxx is a rugged, feature-packed, high-current single channel con
 		<Item Name="Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/Initialize.vi"/>
 		<Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Public/VI Tree.vi"/>
 	</Item>
-	<Item Name="Roboteq Controller KBL1xxx Readme.html" Type="Document" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Roboteq Controller KBL1xxx Readme.html"/>
 </Library>

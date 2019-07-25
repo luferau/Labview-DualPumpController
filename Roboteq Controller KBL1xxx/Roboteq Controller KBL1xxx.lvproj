@@ -8,7 +8,6 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Roboteq Controller KBL1xxx.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Roboteq Controller KBL1xxx.lvlib"/>
-		<Item Name="For tests.vi" Type="VI" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/For tests.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
