@@ -16,6 +16,7 @@
 		<Item Name="Example Pressure Control.vi" Type="VI" URL="../Example Pressure Control.vi"/>
 		<Item Name="Example Go to Speed.vi" Type="VI" URL="../Example Go to Speed.vi"/>
 		<Item Name="Example Read MXRPM.vi" Type="VI" URL="../Example Read MXRPM.vi"/>
+		<Item Name="Example Pressure Control - PID Autotuning.vi" Type="VI" URL="../Example Pressure Control - PID Autotuning.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Roboteq Controller KBL1xxx.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Roboteq Controller KBL1xxx/Roboteq Controller KBL1xxx.lvlib"/>
